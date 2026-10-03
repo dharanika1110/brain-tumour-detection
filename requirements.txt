@@ -1,9 +1,0 @@
-streamlit>=1.35
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-pillow
-# Needed only for training / the "Trained Keras model" engine (app runs without it in demo mode):
-tensorflow>=2.16
