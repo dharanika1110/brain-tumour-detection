@@ -1,0 +1,4 @@
+# Only for local training of the Keras model (python train.py).
+# Do NOT use this file on Streamlit Community Cloud.
+-r requirements.txt
+tensorflow>=2.16
